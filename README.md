@@ -5,27 +5,27 @@ Created using node js, mocha and chai for testing and pg module
 
 
 To setup app:
-* start server
+[] start server
 - brew services start postgresql
-* Install globally
+[] Install globally
 - npm i -g
-* To run test
+[] To run test
 - npm test
 
 To run script:
-* To add task
+[] To add task
 - tasks add <task>
 
-* To list tasks
+[] To list tasks
 - tasks add <task>
 
-* To add tasks
+[] To add tasks
 - tasks list
 
-* To complete task
+[] To complete task
 - tasks complete <task-id>
 
-* To delete task
+[] To delete task
 - tasks delete <task-id>
 
 

@@ -13,11 +13,12 @@ To setup app:
 - npm test
 
 To run script:
- -To add task
+
+ - To add task
 
    tasks add <task>
 
- -To list tasks
+ - To list tasks
 
    tasks add <task>
 

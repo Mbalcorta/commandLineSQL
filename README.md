@@ -16,11 +16,11 @@ To run script:
 
  - To add task
 
-   tasks add <task>
+   tasks add string
 
  - To list tasks
 
-   tasks add <task>
+   tasks add string
 
 - To add tasks
 
@@ -28,11 +28,11 @@ To run script:
 
 - To complete task
 
-   tasks complete <task-id>
+   tasks complete task-id
 
 - To delete task
 
-   tasks delete <task-id>
+   tasks delete task-id
 
 
 
